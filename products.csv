@@ -1,0 +1,8 @@
+product_id,name,category,price,stock,supplier_email
+1,Widget A,Electronics,$19.99,10,example@Supplier.com
+2,Widget B,Electronics,  25.50 ,5,example@Supplier.com
+2,Widget B,Electronics,  25.50 ,3,Example@Supplier.com
+3,Widget C,Electronics,€30.00,2,supplier2@domain.com
+4,Widget D,Electronics,35,0,supplier3@domain.com
+5,Widget E,Home,$10.00,abc,supplier4@domain.com
+6,Widget F,Home,,15,supplier5@domain.com
